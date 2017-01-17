@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class Main {
+public class Main { 
 
 	private static final Scanner sc = new Scanner(System.in);
 
