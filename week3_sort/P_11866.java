@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * 문제 이름 : 조세퍼스
  * 문제 사이트 주소 : https://www.acmicpc.net/problem/11866
  */
-class P_11866 {
+class P_11866 { 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
